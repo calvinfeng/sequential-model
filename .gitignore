@@ -1,0 +1,5 @@
+environment/
+*.pyc
+.vscode/
+datasets/household_power_consumption.txt
+datasets/task_instructions.txt
